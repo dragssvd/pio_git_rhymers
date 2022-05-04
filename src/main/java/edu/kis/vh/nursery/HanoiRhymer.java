@@ -1,6 +1,6 @@
 package edu.kis.vh.nursery;
 //alt + strzałka przemieszcza miedzy plikami
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
 
 int totalRejected = 0;
 
